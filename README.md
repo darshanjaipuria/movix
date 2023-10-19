@@ -13,26 +13,26 @@ Visit the site
 ## Screenshots
 
 Home Page
-![Movix](![image](https://github.com/darshanjaipuria/movix/assets/109844175/d971f7c5-7942-4197-a770-60b1694d8c28)
+![Screenshot 2023-10-19 093425](https://github.com/darshanjaipuria/movix/assets/109844175/ab5ebe2f-e624-4ad8-9a1a-2ef41058240e)
+
 )
 
 Movies Page
-![Movies Page](![image](https://github.com/darshanjaipuria/movix/assets/109844175/01a7982a-15a6-4bac-9232-572b5601bed8)
-)
+![Screenshot 2023-10-19 093546](https://github.com/darshanjaipuria/movix/assets/109844175/15932815-fb9f-456d-9eca-9639ecc92abd)
+
 
 TV Shows Page
-![TV Shows](![image](https://github.com/darshanjaipuria/movix/assets/109844175/56765cc9-f5d6-427d-bbce-2a938962ccd3)
-)
+![Screenshot 2023-10-19 093704](https://github.com/darshanjaipuria/movix/assets/109844175/63101087-9558-4820-99bb-fbaf58caeda2)
 
 
-Dwscription about movie or TV show
-![Description Page of movies and TV Shows](![image](https://github.com/darshanjaipuria/movix/assets/109844175/02eb97e2-c98e-492f-97f0-f20eac2c8b7a)
-)
+
+Description about movie or TV show
+![Screenshot 2023-10-19 093732](https://github.com/darshanjaipuria/movix/assets/109844175/64489774-a85d-4e96-968c-70bb36f224ff)
+
 
 
 Playing a video 
-![image](![image](https://github.com/darshanjaipuria/movix/assets/109844175/1c3c6d3d-a66e-4643-96bf-9f088d126402)
-)
+![Screenshot 2023-10-19 093852](https://github.com/darshanjaipuria/movix/assets/109844175/8be8c679-9899-48ae-a145-27d72ecd2fd4)
 
 
 
